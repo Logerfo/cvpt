@@ -20,7 +20,8 @@ Bauru, São Paulo, Brazil.
 ## Currently
 
 Working fulltime at an automation systems software house  
-focused on gas stations management workflow.
+focused on gas stations management workflow.  
+Looking for new opportunities.
 
 ### Specialized in
 
@@ -45,12 +46,21 @@ __OSTechnologic__
 
 - Internship in software development
 - Delphi desktop applications
+- PostgreSQL database
 
 `2015 - now`
 __SOS System__
 
-- Fulltime job in software development
+- Fulltime job in software development (junior and mid-level)
 - Windows Forms applications
+- .NET Framework / Core
+- PostgreSQL database
+- C# 8.0
+- Unit tests, analyzers, IL weaving
+- SAP Crystal Reports
+- Project technology and code infrastructure management
+  - JetBrains TeamCity CI
+  - GitHub, GitLab, BitBucket
 
 ---
 Last updated: Dec 2019
