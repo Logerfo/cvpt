@@ -23,30 +23,31 @@ Working fulltime at an automation systems software house
 focused on gas stations management workflow.  
 Looking for new opportunities.
 
-### Specialized in
+## Skills
+<!-- ★☆ -->
 
-C#, .NET, Windows Forms and PostgreSQL.
-
-### Learning interests
-
-Node.js, Typescript, Python and ASP.NET Core.
+- ★★★★★ - C# 8.0
+- ★★★★★ - .NET Framework / Core
+- ★★★★☆ - Windows Forms
+- ★★★★☆ - PostgreSQL
+- ★★★☆☆ - ASP .NET
+- ★★☆☆☆ - Node.js
+- ★☆☆☆☆ - Typescript
+- ★☆☆☆☆ - Python
 
 ## Education
 
-`2012 - 2014`
-__CTI / UNESP - Computer Technician__
-
 `2015 - 2019`
-__UNESP - Bachelor’s Degree in Information Systems__
+__UNESP - São Paulo State University__
+
+Bachelor’s Degree in Information Systems
+
+`2012 - 2014`
+__CTI / UNESP - Industrial Technical College__
+
+Computer Technician
 
 ## Occupation
-
-`2014`
-__OSTechnologic__
-
-- Internship in software development
-- Delphi desktop applications
-- PostgreSQL database
 
 `2015 - now`
 __SOS System__
@@ -65,6 +66,13 @@ __SOS System__
 - Project technology and code infrastructure management
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
+
+`2014`
+__OSTecnologic__
+
+- Internship in software development
+- Delphi desktop applications
+- PostgreSQL database
 
 ---
 Last updated: Dec 2019
