@@ -56,8 +56,12 @@ __SOS System__
 - .NET Framework / Core
 - PostgreSQL database
 - C# 8.0
-- Unit tests, analyzers, IL weaving
 - SAP Crystal Reports
+- Unit tests, analyzers, IL weaving
+- GitHub Actions
+- Visual Studio Code extensions
+- Fiscal integration (SPED, SAT)
+- Gas pump automation integration
 - Project technology and code infrastructure management
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
