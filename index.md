@@ -54,7 +54,7 @@ __SOS System__
 - Fulltime job in software development (junior and mid-level)
 - Windows Forms applications
 - .NET Framework / Core
-- PostgreSQL database
+- PostgreSQL, PL/pgSQL
 - C# 8.0
 - SAP Crystal Reports
 - Unit tests, analyzers, IL weaving
