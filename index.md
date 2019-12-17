@@ -3,27 +3,28 @@ layout: cv
 title: Bruno Logerfo
 ---
 # Bruno Logerfo
-Software developer.
+Desenvolvedor de software.
 
 <div id="webaddress">
 <a href="https://github.com/Logerfo">GitHub</a><br>
-<a href="https://logerfo.tk">Portfolio</a><br>
+<a href="https://logerfo.tk">Portfólio</a><br>
 <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
-## Contact info
-Male. Single.  
-Bauru, São Paulo, Brazil.  
+## Informações de contato
+Homem. Solteiro.  
+Bauru, São Paulo, Brasil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
-## Currently
+## Atualmente
 
-Working fulltime at an automation systems software house  
-focused on gas stations management workflow.  
-Looking for new opportunities.
+Trabalhando em tempo integral numa _software house_  
+focada no gerenciamento de fluxo de trabalho de  
+postos de combustíveis.  
+Procurando por novas oportunidades.
 
-## Skills
+## Habilidades
 <!-- ★☆ -->
 
 - ★★★★★ - C# 8.0
@@ -38,41 +39,41 @@ Looking for new opportunities.
 ## Education
 
 `2015 - 2019`
-__UNESP - São Paulo State University__
+__UNESP - Universidade Estadual Paulista__
 
-Bachelor’s Degree in Information Systems
+Bacharelado em Sistemas de Informação
 
 `2012 - 2014`
-__CTI / UNESP - Industrial Technical College__
+__CTI / UNESP - Colégio Técnico Industrial__
 
-Computer Technician
+Técnico em Informática
 
-## Occupation
+## Ocupação
 
-`2015 - now`
+`2015 - atualmente`
 [__SOS System__](http://sospostos.com.br/)
 
-- Fulltime job in software development (junior and mid-level)
-- Windows Forms applications
+- Trabalho em tempo integral em desenvolvimento de software (júnior e pleno)
+- Aplicações Windows Forms
 - .NET Framework / Core
 - PostgreSQL, PL/pgSQL
 - C# 8.0
 - SAP Crystal Reports
-- Unit tests, analyzers, IL weaving
+- Testes unitários, analyzers, IL weaving
 - GitHub Actions
-- Visual Studio Code extensions
-- Fiscal integration (SPED, SAT)
-- Gas pump automation integration
-- Project technology and code infrastructure management
+- Extensões para Visual Studio Code
+- Integração fiscal (SPED, SAT)
+- Integração com automação de bombas de combustível
+- Gerenciamento de tecnologia e infraestrutura de projeto
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
 
 `2014`
 __OSTecnologic__
 
-- Internship in software development
-- Delphi desktop applications
-- PostgreSQL database
+- Estágio em desenvolvimento de software
+- Aplicações desktop Delphi
+- Banco de dados PostgreSQL
 
 ---
-Last updated: Dec 2019
+Atualizado em: Dez 2019
