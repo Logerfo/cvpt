@@ -36,7 +36,7 @@ Procurando por novas oportunidades.
 - ★☆☆☆☆ - Typescript
 - ★☆☆☆☆ - Python
 
-## Education
+## Educação
 
 `2015 - 2019`
 __UNESP - Universidade Estadual Paulista__
