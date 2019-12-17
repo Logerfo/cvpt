@@ -50,7 +50,7 @@ Técnico em Informática
 
 ## Ocupação
 
-`2015 - atualmente`
+`2015 - hoje`
 [__SOS System__](http://sospostos.com.br/)
 
 - Trabalho em tempo integral em desenvolvimento de software (júnior e pleno)
