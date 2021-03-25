@@ -13,16 +13,15 @@ Desenvolvedor de software.
 
 ## Informações de contato
 Homem. Solteiro.  
-Bauru, São Paulo, Brasil.  
+São Paulo, São Paulo, Brasil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
 ## Atualmente
 
 Trabalhando em tempo integral numa _software house_  
-focada no gerenciamento de fluxo de trabalho de  
-postos de combustíveis.  
-Procurando por novas oportunidades.
+focada no mercado financeiro, trabalhando em projetos  
+back-end tanto internos como terceirizados.  
 
 ## Habilidades
 <!-- ★☆ -->
@@ -50,7 +49,19 @@ Técnico em Informática
 
 ## Ocupação
 
-`2015 - hoje`
+`2020 - now`
+[__Beyond Soluções__](http://imaginebeyond.com.br/)
+- Trabalho em tempo integral em desenvolvimento de software (pleno e sênior)
+- APIs em ASP .NET 
+- .NET Framework / Core
+- PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
+- Docker
+- Testes unitários e de integração
+- Integração com software financeiro terceiro
+- Azure DevOps, GitLab
+- Code review
+
+`2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
 
 - Trabalho em tempo integral em desenvolvimento de software (júnior e pleno)
@@ -76,4 +87,4 @@ __OSTecnologic__
 - Banco de dados PostgreSQL
 
 ---
-Atualizado em: Dez 2019
+Atualizado em: Jun 2020
