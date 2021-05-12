@@ -26,8 +26,8 @@ back-end tanto internos como terceirizados.
 ## Habilidades
 <!-- ★☆ -->
 
-- ★★★★★ - C# 8.0
-- ★★★★★ - .NET Framework / Core
+- ★★★★★ - C# 9.0
+- ★★★★★ - .NET Framework / Core / .NET 5
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - ASP .NET
