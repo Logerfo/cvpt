@@ -53,7 +53,8 @@ Técnico em Informática
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 - Trabalho em tempo integral em desenvolvimento de software (pleno e sênior)
 - APIs em ASP .NET 
-- .NET Framework / Core
+- .NET Framework / Core / .NET 5
+- C# 9.0
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Testes unitários e de integração
