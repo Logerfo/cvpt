@@ -26,13 +26,15 @@ back-end tanto internos como terceirizados.
 ## Habilidades
 <!-- ★☆ -->
 
-- ★★★★★ - C# 9.0
-- ★★★★★ - .NET Framework / Core / .NET 5
+- ★★★★★ - C# 10.0
+- ★★★★★ - .NET 6
+- ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
-- ★★★☆☆ - ASP .NET
+- ★★★☆☆ - SQL Server
+- ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
-- ★☆☆☆☆ - Typescript
+- ★★☆☆☆ - Typescript
 - ★☆☆☆☆ - Python
 
 ## Educação
@@ -49,12 +51,12 @@ Técnico em Informática
 
 ## Ocupação
 
-`2020 - now`
+`2020 - atualmente`
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 - Trabalho em tempo integral em desenvolvimento de software (pleno e sênior)
 - APIs em ASP .NET 
-- .NET Framework / Core / .NET 5
-- C# 9.0
+- .NET 6
+- C# 10.0
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Testes unitários e de integração
@@ -88,4 +90,4 @@ __OSTecnologic__
 - Banco de dados PostgreSQL
 
 ---
-Atualizado em: May 2021
+Atualizado em: Dez 2021
