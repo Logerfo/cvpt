@@ -19,9 +19,8 @@ São Paulo, São Paulo, Brasil.
 
 ## Atualmente
 
-Trabalhando em tempo integral numa _software house_  
-focada no mercado financeiro, trabalhando em projetos  
-back-end tanto internos como terceirizados.  
+Trabalhando como _dev lead_ em um time de back-end
+para um serviço de contabilidade tributária.
 
 ## Habilidades
 <!-- ★☆ -->
@@ -53,7 +52,9 @@ Técnico em Informática
 
 `2020 - atualmente`
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
+
 - Trabalho em tempo integral em desenvolvimento de software (pleno e sênior)
+- Liderança de time
 - APIs em ASP .NET 
 - .NET 6
 - C# 10.0
@@ -62,7 +63,10 @@ Técnico em Informática
 - Testes unitários e de integração
 - Integração com software financeiro terceiro
 - Azure DevOps, GitLab
+- Especificação técnica
 - Code review
+- Documentação
+- Contabilidade tributária
 
 `2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
