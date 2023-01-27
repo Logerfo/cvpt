@@ -25,8 +25,8 @@ para um serviço de contabilidade tributária.
 ## Habilidades
 <!-- ★☆ -->
 
-- ★★★★★ - C# 10.0
-- ★★★★★ - .NET 6
+- ★★★★★ - C# 11
+- ★★★★★ - .NET 7
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
@@ -34,7 +34,7 @@ para um serviço de contabilidade tributária.
 - ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
 - ★★☆☆☆ - Typescript
-- ★☆☆☆☆ - Python
+- ★★☆☆☆ - Python
 
 ## Educação
 
@@ -56,8 +56,8 @@ Técnico em Informática
 - Trabalho em tempo integral em desenvolvimento de software (pleno e sênior)
 - Liderança de time
 - APIs em ASP .NET 
-- .NET 6
-- C# 10.0
+- .NET 7
+- C# 11
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Testes unitários e de integração
@@ -75,7 +75,7 @@ Técnico em Informática
 - Aplicações Windows Forms
 - .NET Framework / Core
 - PostgreSQL, PL/pgSQL
-- C# 8.0
+- C# 8
 - SAP Crystal Reports
 - Testes unitários, analyzers, IL weaving
 - GitHub Actions
@@ -94,4 +94,4 @@ __OSTecnologic__
 - Banco de dados PostgreSQL
 
 ---
-Atualizado em: Dez 2021
+Atualizado em: Jan 2023
