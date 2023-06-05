@@ -94,4 +94,4 @@ __OSTecnologic__
 - Banco de dados PostgreSQL
 
 ---
-Atualizado em: Jan 2023
+Atualizado em: Jun 2023
