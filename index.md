@@ -12,7 +12,7 @@ Desenvolvedor de software.
 </div>
 
 ## Informações de contato
-Homem. Solteiro.  
+Homem. Casado.  
 São Paulo, São Paulo, Brasil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
