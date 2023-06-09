@@ -66,7 +66,7 @@ Técnico em Informática
 - Integração com software financeiro terceiro
 - Azure DevOps, GitLab
 - Especificação técnica
-- Code review
+- Revisão de código
 - Documentação
 - Contabilidade tributária
 
@@ -84,6 +84,7 @@ Técnico em Informática
 - Extensões para Visual Studio Code
 - Integração fiscal (SPED, SAT)
 - Integração com automação de bombas de combustível
+- Revisão de código
 - Gerenciamento de tecnologia e infraestrutura de projeto
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
