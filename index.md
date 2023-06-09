@@ -30,11 +30,12 @@ para um serviço de contabilidade tributária.
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
-- ★★★☆☆ - SQL Server
+- ★★★☆☆ - AWS
 - ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
 - ★★☆☆☆ - Typescript
 - ★★☆☆☆ - Python
+- ★☆☆☆☆ - Kubernetes
 
 ## Educação
 
@@ -59,8 +60,9 @@ Técnico em Informática
 - .NET 7
 - C# 11
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- Docker
-- Testes unitários e de integração
+- AWS
+- Docker, Kubernetes
+- XUnit
 - Integração com software financeiro terceiro
 - Azure DevOps, GitLab
 - Especificação técnica
