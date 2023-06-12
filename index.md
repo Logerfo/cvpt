@@ -60,7 +60,7 @@ Técnico em Informática
 - .NET 7
 - C# 11
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- AWS
+- AWS S3, SQS
 - Docker, Kubernetes
 - XUnit
 - Integração com software financeiro terceiro
