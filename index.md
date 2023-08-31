@@ -32,10 +32,9 @@ para um serviço de contabilidade tributária.
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - AWS
 - ★★★☆☆ - Entity Framework
-- ★★☆☆☆ - Node.js
-- ★★☆☆☆ - Typescript
-- ★★☆☆☆ - Python
-- ★☆☆☆☆ - Kubernetes
+- ★★☆☆☆ - Node.js/Typescript
+- ★★☆☆☆ - Apache Kafka
+- ★★☆☆☆ - Redis
 
 ## Educação
 
