@@ -57,19 +57,20 @@ Técnico em Informática
 - Liderança de time
 - APIs em ASP .NET 
 - .NET 7
-- C# 11
-- PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- AWS S3, SQS
-- Apache Kafka
-- gRPC
-- Redis
-- Docker, Kubernetes
-- XUnit
-- Integração com software financeiro terceiro
-- Azure DevOps, GitLab
-- Especificação técnica
-- Revisão de código
-- Documentação
+- C# 11, Typescript
+- Bancos de dados relacionais: PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
+- Bancos de dados não-relacionais: MongoDB
+- Núvem: AWS S3, SQS
+- Mensageria: Apache Kafka
+- Protocolos: REST, RPC
+- Cache: Redis
+- Contâiners: Docker, Kubernetes
+- Testes: XUnit
+- Integração com serviço financeiro e de pagamento terceiro
+- Gestão e integração contínua: Azure DevOps, GitLab
+- Desenho de soluções, arquitetura e especificação técnica
+- Documentação de melhores práticas de programação, cumprimento e revisão de código
+- Documentação técnica
 - Contabilidade tributária
 
 `2015 - 2020`
